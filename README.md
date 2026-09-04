@@ -40,7 +40,7 @@ The analysis focuses on sales, profit, products, customers, cities, and monthly 
 
 💰 Sales & Profit Analysis
 
-Calculated overall sales and profit to understand the overall business performance.
+Calculated overall sales and profit to understand business performance.
 
 📦 Product Analysis
 
@@ -84,8 +84,6 @@ These insights can support data-driven business decision-making.
 
 1. Clone the Repository
 
-Open your terminal or command prompt and run:
-
 git clone https://github.com/msmadhumitha11/Sales-Data-Analysis.git
 
 2. Navigate to the Project Folder
@@ -93,8 +91,6 @@ git clone https://github.com/msmadhumitha11/Sales-Data-Analysis.git
 cd Sales-Data-Analysis
 
 3. Install Required Libraries
-
-Install the required Python libraries using:
 
 pip install pandas numpy matplotlib
 
