@@ -95,7 +95,7 @@ These insights can support data-driven business decision-making.
 
 ### 3. Install Required Libraries
 
-    pip install pandas numpy matplotlib
+    pip install -r requirements.txt
 
 ### 4. Run the Python Script
 
