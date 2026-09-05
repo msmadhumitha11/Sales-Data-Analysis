@@ -58,15 +58,19 @@ Compared sales performance across different cities.
 
 Analyzed monthly sales to identify changes and trends in sales performance.
 
-## 📈 Data Visualization
+## 📸 Project Preview
 
-Created visualizations using Matplotlib to understand:
+### Daily Sales
+![Daily Sales](screenshots/daily_sales.png)
 
-- Sales performance
-- Profit performance
-- Top products
-- City-wise sales
-- Monthly sales trends
+### Monthly Sales
+![Monthly Sales](screenshots/monthly_sales.png)
+
+### Sales by City
+![Sales by City](screenshots/sales_by_city.png)
+
+### Sales by Product
+![Sales by Product](screenshots/sales_by_product.png)
 
 ## 💡 Business Insights
 
