@@ -61,17 +61,16 @@ Analyzed monthly sales to identify changes and trends in sales performance.
 ## 📸 Project Preview
 
 ### Daily Sales
-![Daily Sales](screenshots/daily_sales.png)
+![Daily Sales](screenshots/Daily_sales.png)
 
 ### Monthly Sales
-![Monthly Sales](screenshots/monthly_sales.png)
+![Monthly Sales](screenshots/Monthly_sales.png)
 
 ### Sales by City
-![Sales by City](screenshots/sales_by_city.png)
+![Sales by City](screenshots/Sales_by_city.png)
 
 ### Sales by Product
-![Sales by Product](screenshots/sales_by_product.png)
-
+![Sales by Product](screenshots/Sales_by_product.png)
 ## 💡 Business Insights
 
 The analysis helps businesses understand:
