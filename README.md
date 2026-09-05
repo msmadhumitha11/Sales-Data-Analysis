@@ -100,14 +100,23 @@ These insights can support data-driven business decision-making.
 ### 4. Run the Python Script
 
     python Sales_analysis.py
-
+    
 ## 📁 Project Structure
 
     Sales-Data-Analysis/
     │
     ├── README.md
     ├── Sales_analysis.py
-    └── Sales_data.csv
+    ├── Sales_data.csv
+    ├── requirements.txt
+    ├── .gitignore
+    ├── data_dictionary.md
+    │
+    └── screenshots/
+        ├── Daily_sales.png
+        ├── Monthly_sales.png
+        ├── Sales_by_city.png
+        └── Sales_by_product.png
 
 ## 🚀 Future Improvements
 
