@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 # 1. READ THE CSV FILE
-df = pd.read_csv("sales_data.csv")
+df = pd.read_csv("Sales_data.csv")
 # Convert Date into date format
 df["Date"] = pd.to_datetime(df["Date"], dayfirst=True)
 #2.CALCULATE SALES
